@@ -6,7 +6,7 @@
 3. Editor de código (VS Code, Sublime Text ou similar).
 
 ## Instalação
-1. Clone Repo - 
+1. Clone Repo - https://github.com/KleuberJacob/projeto-teste-pipoV2-backend.git
 2. npm install 
 
 ### Primeiros Passos
