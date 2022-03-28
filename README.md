@@ -11,7 +11,7 @@
 
 ### Primeiros Passos
 1. Criar banco de dados. 
-2. Configurar .env com suas credenciais de acesso ao banco.
+2. Configurar .env(variáveis de ambiente) com suas credenciais de acesso ao banco.
 
 ### Criando dados base no banco de dados
 1. Rodar os comandos SQL via terminal ou SGBD(Workbench) para inserção dos dados base do projeto.
