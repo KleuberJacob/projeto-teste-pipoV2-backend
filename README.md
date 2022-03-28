@@ -1,9 +1,9 @@
 # Projeto de Teste PipoV2
 
 ## Requisitos
-1. NodeJS.
-2. MySQL.
-3. Editor de código (VS Code, Sublime Text ou similar).
+>*  NodeJS.
+>*  MySQL.
+>*  Editor de código (VS Code, Sublime Text ou similar).
 
 ## Instalação
 1. Clone Repo - https://github.com/KleuberJacob/projeto-teste-pipoV2-backend.git
@@ -49,6 +49,6 @@
 	  VALUES ( 2, 4, "2022-03-28 16:00:00", "2022-03-28 16:00:00");<br>
     
 ## Dar comando via terminal do editor para iniciar o backend do projeto
-1. npm start
+>* npm start
 
 
