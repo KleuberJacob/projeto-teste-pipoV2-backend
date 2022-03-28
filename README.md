@@ -9,11 +9,11 @@
 1. Clone Repo - https://github.com/KleuberJacob/projeto-teste-pipoV2-backend.git
 2. npm install 
 
-### Primeiros Passos
+## Primeiros Passos
 1. Criar banco de dados. 
 2. Configurar .env(variáveis de ambiente) com suas credenciais de acesso ao banco.
 
-### Criando dados base no banco de dados
+## Criando dados base no banco de dados
 1. Rodar os comandos SQL via terminal ou SGBD(Workbench) para inserção dos dados base do projeto.
 2.  USE "nome do seu banco de dados criado"; <br>
     INSERT INTO plain_types (name, createdAt, updatedAt) <br>
