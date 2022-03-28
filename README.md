@@ -51,4 +51,10 @@
 ## Dar comando via terminal do editor para iniciar o backend do projeto
 >* npm start
 
+## Rotas
+>* GET Todas as Empresas => http://localhost:3001/companies
+>* GET Planos da Empresa => http://localhost:3001/company/:id/plains
+>* GET Colaboradores da Empresa => http://localhost:3001/company/:id/employees
+>* POST Novo Colaborador na Empresa => http://localhost:3001/new/employee
+>* DELETE Colaborador da Empresa => http://localhost:3001/employee/:id
 
